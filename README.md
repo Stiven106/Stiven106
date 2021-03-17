@@ -1,8 +1,13 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven106&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Stiven_Marin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stiven106&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven106&layout=compact&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sebas1012&theme=gotham" />
+</a>
 
 <!--
 **Stiven106/Stiven106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
