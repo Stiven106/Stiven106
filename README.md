@@ -1,4 +1,4 @@
-### Hola que hace 👋
+###  Desarrollador Full Stack en Formacion! | Estudiante de Ing. de Software | Conocimientos intermedios en: Java, Javascript, SQL, MySQL, CSS3, HTML5, SASS y GULP | 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stiven106&show_icons=true&theme=gotham" />
 </a>
