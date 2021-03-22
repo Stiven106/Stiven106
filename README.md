@@ -1,25 +1,23 @@
-###  Desarrollador Full Stack en Formacion! | Estudiante de Ing. de Software | Conocimientos intermedios en: Java, Javascript, SQL, MySQL, CSS3, HTML5, SASS y GULP | 
+## Lorem Ipsum 🔥😒
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere ante diam, non eleifend diam varius in. Phasellus vitae elit arcu. Nullam est justo, convallis at velit vestibulum, dictum tempor diam.
+
+- Lorem Ipsum
+- Lorem Ipsum
+
+### Lorem Ipsum: 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="25px" height="25px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="5"/>
+</div>
+
+### Lorem Ipsum:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stiven106&show_icons=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Stiven_Marin&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven106&layout=compact&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiven106&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Stiven_Marin&theme=gotham" />
-</a>
-
-<!--
-**Stiven106/Stiven106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
