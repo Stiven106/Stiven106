@@ -1,4 +1,4 @@
-## Lorem Ipsum 🔥😒
+## Hola, soy Stiven. 👋👷
 Desarrollador full stack en formacion y estudiante de Ing. en Software. 
 
 ### Conocimientos intermedios en: 
@@ -7,10 +7,10 @@ Desarrollador full stack en formacion y estudiante de Ing. en Software.
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="2"/>
 </div>
 
-### Lorem Ipsum:
+### Estadisticas:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
