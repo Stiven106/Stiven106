@@ -15,9 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere ante dia
 </div>
 
 ### Lorem Ipsum:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Stiven_Marin&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiven106&layout=compact" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
