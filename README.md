@@ -18,9 +18,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere ante dia
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 20 Contributions in the Year 2021
+> 🏆 21 Contributions in the Year 2021
  > 
 > 📦 82.8 kB Used in Github's Storage 
  > 
@@ -37,18 +39,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere ante dia
 🌆 Daytime    6 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
 🌃 Evening    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Wednesday    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Thursday     2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Friday       10 commits     ████████████████░░░░░░░░░   66.67% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -80,21 +70,6 @@ eventos1-Contador-de-clic54 mins             █░░░░░░░░░░�
 Windows                  17 hrs 26 mins      █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-HTML                     6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-SCSS                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Stiven106/Stiven106/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
