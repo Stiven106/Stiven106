@@ -14,7 +14,7 @@ Desarrollador full stack en formacion y estudiante de Ing. en Software.
 
 ### Estadisticas:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
 **🐱 My Github Data** 
 
