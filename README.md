@@ -7,8 +7,10 @@ En 2020 inicie mi nueva aventura como estudiante de Ingeniería de Software, y g
 
 Mi lenguaje principal y favorito es Java, aunque también me gusta programar con JavaScript. Mi pasatiempo favorito es programar y crear proyectos propios de mi interés. También me gusta tocar guitarra en mis tiempos libres y disfruto mucho escuchar música. Mi banda favorita es Linkin Park.
 
-Pagina personal de GitHub: https://github.com/Stiven106
+Pagina personal de Linkedin: https://www.linkedin.com/in/stiven-marin-04198b202/
+
 Pagina personal: Próximamente
+
 Instagram: https://www.instagram.com/br_stiven.js/ 
 
 ### Conocimientos intermedios en: 
