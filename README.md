@@ -9,7 +9,7 @@ Mi lenguaje principal y favorito es Java, aunque también me gusta programar con
 
 Pagina personal de Linkedin: https://www.linkedin.com/in/stiven-marin-04198b202/
 
-Pagina personal: Próximamente
+Pagina personal: https://stiven106.github.io/Mi-portafolio-/
 
 Instagram: https://www.instagram.com/br_stiven.js/ 
 
