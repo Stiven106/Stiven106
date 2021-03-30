@@ -30,7 +30,7 @@ Instagram: https://www.instagram.com/br_stiven.js/
 
 **🐱 My Github Data** 
 
-> 🏆 36 Contributions in the Year 2021
+> 🏆 37 Contributions in the Year 2021
  > 
 > 📦 82.9 kB Used in Github's Storage 
  > 
@@ -38,7 +38,7 @@ Instagram: https://www.instagram.com/br_stiven.js/
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
