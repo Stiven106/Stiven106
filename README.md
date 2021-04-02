@@ -26,11 +26,11 @@ Instagram: https://www.instagram.com/br_stiven.js/
 
 ### Estadisticas:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 48 Contributions in the Year 2021
+> 🏆 54 Contributions in the Year 2021
  > 
 > 📦 82.9 kB Used in Github's Storage 
  > 
@@ -40,5 +40,37 @@ Instagram: https://www.instagram.com/br_stiven.js/
  > 
 > 🔑 14 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    6 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌆 Daytime    6 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌃 Evening    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+Java                     14 hrs 37 mins      ██████████████████████░░░   91.01% 
+CSS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
+XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+
+🔥 Editors: 
+IntelliJ                 14 hrs 49 mins      ███████████████████████░░   92.3% 
+VS Code                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.7%
+
+💻 Operating System: 
+Windows                  16 hrs 4 mins       █████████████████████████   100.0%
+
+```
+
 
 <!--END_SECTION:waka-->
