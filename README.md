@@ -22,7 +22,7 @@ Instagram: https://www.instagram.com/br_stiven.js/
   <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/java.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/spring.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/spring.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
 ### Estadisticas:
