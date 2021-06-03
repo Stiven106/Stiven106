@@ -25,6 +25,15 @@ Instagram: https://www.instagram.com/br_stiven.js/
   <img src="https://cdn.svgporn.com/logos/spring.svg" width="60px" height="30px" hspace="5"/>
 </div>
 
+### Otros: 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/spring.svg" width="60px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/eclipse-icon.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/webstorm-idea.svg" width="30px" height="30px" hspace="5"/>
+</div>
+
 ### Estadisticas:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
