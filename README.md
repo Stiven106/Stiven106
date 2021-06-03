@@ -13,7 +13,7 @@ Pagina personal: https://stiven106.github.io/Mi-portafolio-/
 
 Instagram: https://www.instagram.com/br_stiven.js/ 
 
-### Conocimientos intermedios en: 
+### Conocimientos en: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
