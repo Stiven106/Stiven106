@@ -19,10 +19,11 @@ Instagram: https://www.instagram.com/br_stiven.js/
   <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="2"/>
-  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/java.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/spring.svg" width="60px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
 ### Otros: 
