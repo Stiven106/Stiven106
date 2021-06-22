@@ -41,7 +41,7 @@ Instagram: https://www.instagram.com/br_stiven.js/
 
 > 🏆 143 Contributions in the Year 2021
  > 
-> 📦 83.1 kB Used in Github's Storage 
+> 📦 83.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,16 +66,16 @@ Instagram: https://www.instagram.com/br_stiven.js/
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
