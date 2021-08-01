@@ -35,7 +35,7 @@ Instagram: https://www.instagram.com/br_stiven.js/
 
 ### Estadisticas:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -77,5 +77,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
