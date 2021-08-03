@@ -66,16 +66,18 @@ Instagram: https://www.instagram.com/br_stiven.js/
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              █████████████████░░░░░░░░   70.06% 
+Java                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.95% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/08/2021
+ Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
