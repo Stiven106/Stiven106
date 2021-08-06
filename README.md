@@ -10,7 +10,9 @@ Mi lenguaje principal y favorito es Java. Planeo que mi siguiente lenguaje de Ba
 Pasatiempos: En mis ratos libres disfruto crear proyectos que involucren tanto desarrollo Front, como Back. Me encanta la música, principalmente el rock. Mi banda favorita desde pequeño es Linkin Park. A día de hoy me encuentro aprendiendo guitarra eléctrica.
 
 Pagina personal de GitHub: https://github.com/Stiven106
+
 Pagina Web: https://stiven106.github.io/Mi-portafolio-/
+
 Instagram: https://www.instagram.com/br_stiven.js/
 
 Atención: No cuento con experiencia laboral en ninguna empresa como desarrollador Backend, pero soy capaz de demostrar mis aptitudes a través de proyectos realizados. Estoy actualmente cursando 3er semestre pero inicie a programar antes de empezar la carrera. Planeo empezar a buscar trabajo a finales de este año.
