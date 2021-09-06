@@ -41,13 +41,13 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 
 ### Estadisticas:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 155 Contributions in the Year 2021
+> 🏆 156 Contributions in the Year 2021
  > 
-> 📦 85.4 kB Used in Github's Storage 
+> 📦 87.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,38 +55,6 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
  > 
 > 🔑 15 Private Repositories  
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
-🌆 Daytime    46 commits     ████████░░░░░░░░░░░░░░░░░   33.82% 
-🌃 Evening    52 commits     █████████░░░░░░░░░░░░░░░░   38.24% 
-🌙 Night      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.56%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-Java                     30 hrs 13 mins      ████████████████████████░   98.38% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-🔥 Editors: 
-IntelliJ                 27 hrs 56 mins      ██████████████████████░░░   90.95% 
-VS Code                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.05%
-
-💻 Operating System: 
-Windows                  30 hrs 43 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 04/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
