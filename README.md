@@ -1,5 +1,5 @@
 ## Hola, soy Stiven. 👋👷
-Desarrollador Backend Java - Spring | Estudiante de Ing. de Software | Conocimientos en: Java, Spring, Linux, GitHub, Javascript, MySQL, CSS3, HTML5|
+Desarrollador Backend Java - Spring | Estudiante de Ing. de Software | Conocimientos en: Java, Spring, Linux, GitHub, MySQL, CSS3, HTML5|
 
 Soy Stiven Marin, tengo 19 años y me considero un apasionado por la tecnología. Soy Técnico en Electromecánica de la cual tengo 9 meses de experiencia laboral y donde posteriormente encontré mi pasión la cual es programar.
 
