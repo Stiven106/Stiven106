@@ -15,8 +15,6 @@ Pagina Web: https://stiven106.github.io/Mi-portafolio-/
 
 Instagram: https://www.instagram.com/br_stiven.js/
 
-Atención: No cuento con experiencia laboral en ninguna empresa como desarrollador Backend, pero soy capaz de demostrar mis aptitudes a través de proyectos realizados. Estoy actualmente cursando 3er semestre pero inicie a programar antes de empezar la carrera. Planeo empezar a buscar trabajo a finales de este año.
-
 Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en: Java, Spring, Linux, GitHub, Javascript, MySQL, CSS3, HTML5, SASS y GULP |
 
 ### Conocimientos en: 
