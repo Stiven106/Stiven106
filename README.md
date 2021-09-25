@@ -39,7 +39,7 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 
 ### Estadisticas:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,5 +54,5 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 > 🔑 15 Private Repositories  
  > 
 
- Last Updated on 24/09/2021
+ Last Updated on 25/09/2021
 <!--END_SECTION:waka-->
