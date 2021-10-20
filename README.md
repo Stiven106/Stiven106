@@ -39,12 +39,7 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 
 ### Estadisticas:
 <!--START_SECTION:waka-->
-<div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://wakatime.com/badge/user/76db4480-5b94-4fcb-bb5d-1e479cf94a0e.svg"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stiven106.Stiven106%22"/>
-</div>
-
-<br>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,5 +54,5 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 > 🔑 15 Private Repositories  
  > 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
