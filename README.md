@@ -37,10 +37,17 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
   <img src="https://cdn.svgporn.com/logos/webstorm.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
-### Estadisticas:
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+
+### Estadisticas:
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://wakatime.com/badge/user/76db4480-5b94-4fcb-bb5d-1e479cf94a0e.svg"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stiven106.Stiven106"/>
+</div>
+
+<br>
+
+<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 🏆 171 Contributions in the Year 2021
