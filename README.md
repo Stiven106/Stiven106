@@ -52,16 +52,16 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 176 Contributions in the Year 2021
  > 
-> 📦 87.3 kB Used in GitHub's Storage 
+> 📦 87.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 
- Last Updated on 14/11/2021
+ Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
