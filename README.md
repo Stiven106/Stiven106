@@ -48,11 +48,11 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
 > 📦 87.7 kB Used in GitHub's Storage 
  > 
@@ -63,5 +63,5 @@ Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en
 > 🔑 16 Private Repositories  
  > 
 
- Last Updated on 15/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
