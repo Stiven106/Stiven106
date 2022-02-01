@@ -3,8 +3,6 @@ Desarrollador Backend Java - Spring | Estudiante de Ing. de Software | Conocimie
 
 Soy Stiven Marin, tengo 19 años y me considero un apasionado por la tecnología.
 
-Desarrollador Backend Junior | Estudiante de Ing. de Software | Conocimientos en: Java, Spring, Linux, GitHub, Javascript, MySQL, CSS3, HTML5, SASS y GULP |
-
 ### Conocimientos en: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
