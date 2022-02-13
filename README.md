@@ -1,5 +1,5 @@
 ## Hola, soy Stiven. 👋👷
-Desarrollador Backend Java - Spring | Estudiante de Ing. de Software | 
+Desarrollador Full Stack Java - Spring - React | Estudiante de Ing. de Software | 
 
 Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología.
 
