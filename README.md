@@ -1,7 +1,7 @@
 ## Hola, soy Stiven. 👋👷
-Desarrollador Backend Java - Spring | Estudiante de Ing. de Software | Conocimientos en: Java, Spring, Spring Security, JPA, Hibernate, etc...
+Desarrollador Backend Java - Spring | Estudiante de Ing. de Software | 
 
-Soy Stiven Marin, tengo 19 años y me considero un apasionado por la tecnología.
+Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología.
 
 ### Conocimientos en: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
@@ -15,15 +15,6 @@ Soy Stiven Marin, tengo 19 años y me considero un apasionado por la tecnología
   <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="30px" height="30px" hspace="5"/>
 </div>
-
-### Otros: 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/eclipse-icon.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/webstorm.svg" width="30px" height="30px" hspace="5"/>
-</div>
-
-
 
 ### Estadisticas:
 <div style="display: flex; flex-direction: row; justify-content: center;">
