@@ -25,20 +25,20 @@ Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 22 Contributions in the Year 2022
+> 🏆 27 Contributions in the Year 2022
  > 
 > 📦 92.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 
- Last Updated on 12/02/2022 18:41:33 UTC
+ Last Updated on 15/02/2022 18:42:40 UTC
 <!--END_SECTION:waka-->
