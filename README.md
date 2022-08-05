@@ -25,7 +25,7 @@ Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,5 +40,5 @@ Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología
 > 🔑 21 Private Repositories  
  > 
 
- Last Updated on 04/08/2022 18:47:52 UTC
+ Last Updated on 05/08/2022 18:46:52 UTC
 <!--END_SECTION:waka-->
