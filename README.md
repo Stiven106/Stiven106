@@ -29,7 +29,7 @@ Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología
 
 **🐱 My GitHub Data** 
 
-> 🏆 47 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 93.1 kB Used in GitHub's Storage 
  > 
@@ -40,5 +40,5 @@ Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología
 > 🔑 24 Private Repositories  
  > 
 
- Last Updated on 31/12/2022 18:38:02 UTC
+ Last Updated on 01/01/2023 18:38:14 UTC
 <!--END_SECTION:waka-->
