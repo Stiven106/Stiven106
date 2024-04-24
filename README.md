@@ -1,7 +1,7 @@
 ## Hola, soy Stiven. 👋👷
 Desarrollador Full Stack Java - Spring - React | Estudiante de Ing. de Software | 
 
-Soy Stiven Marin, tengo 20 años y me considero un apasionado por la tecnología.
+Soy Stiven Marin, tengo 22 años y me considero un apasionado por aprender tecnologias nuevas.
 
 ### Conocimientos en: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
